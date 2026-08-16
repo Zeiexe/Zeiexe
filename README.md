@@ -1,5 +1,13 @@
-## Hi there 👋
-
+## Hey there! 👋
+I'm Zei an 16 years old, from India.
+I plan to make many helpful repos!
+My favorite tools are obsidian, zed, helium and neovim.
+If I think of making something in my mind, I actually build it!
+I'm still growing and learning.
+# Fun facts--
+- I love all animals.
+- I'm vegetarian.
+- I mostly use Linux!
 <!--
 **Zeiexe/Zeiexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
