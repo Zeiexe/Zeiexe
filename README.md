@@ -1,4 +1,3 @@
-<img width="735" height="412" alt="download" src="https://github.com/user-attachments/assets/400f98e1-912f-4e81-8f76-47ed0c409319" />
 ## Hey there! 👋
 I'm Zei, an 16 years old, from India.
 I plan to make many helpful repos!.
